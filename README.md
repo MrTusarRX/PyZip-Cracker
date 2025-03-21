@@ -36,7 +36,7 @@ This project is for educational and research purposes only.
 Do not use it for unauthorized activities. The developer is not responsible for any misuse.
 📝 License
 
-This project is licensed under the MIT License – Read Here.
+This project is licensed under the MIT License – [Read Here.](https://github.com/MrTusarRX/PyZip-Cracker/LICENSE)
 
-💻 Made with ❤️ by @MrTusarRX 🚀
+💻 Made with ❤️ by [@MrTusarRX](https://github.com/MrTusarRX) 🚀
 
