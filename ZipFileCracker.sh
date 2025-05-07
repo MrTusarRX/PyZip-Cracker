@@ -28,8 +28,6 @@ if [ $? -ne 0 ]; then
     python3 -m pip install pyzipper
 fi
 
-# Navigate to the directory of the script
 cd "$(dirname "$0")"
 
-# Run main.py or Zipfile cracker python3 code
 python3 main.py
